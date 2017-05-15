@@ -1,8 +1,6 @@
 #include <iostream>
 
-using namespace std;
-
 int main(){
-    cout<<"Hell of a world!!!"<<endl;
+    std::cout<<"Hell of a world!!!"<<std::endl;
     return 1;
 }
